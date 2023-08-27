@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "natural": "^6.7.0"
-  }
+  },
+  "name": "extract-meaningful-data",
+  "description": "Text Mining and Natural Language Processing Models: These models are designed to extract meaningful information from textual data. Named Entity Recognition, Sentiment Analysis, and Text Classification are examples of models used in text mining and NLP.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

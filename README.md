@@ -62,6 +62,9 @@ Keep in mind that the interpretation of sentiment scores depends on the specific
 If you have the original text associated with these sentiment scores, you can compare the scores with the text content to get a better sense of how the sentiment analysis is working for your specific dataset.
 
 
+to run the code
+`npm run start`
+
 Sample Results:
 [
   'RN Area ID RN Area Name Population RN_LIC RN_EMPRATE Employed RNs Ratio Target Ratio RNSA Severity Effective Date',
